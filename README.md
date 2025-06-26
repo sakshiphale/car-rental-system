@@ -28,11 +28,4 @@ javac Main.java
 java Main
 ```
 
----
 
-This project is great for learning Java OOP with real-world context.
-Feel free to fork, explore, and build on it!
-
----
-
-Let me know if you'd like a custom banner image for your GitHub repo too!
